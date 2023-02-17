@@ -1,4 +1,10 @@
 # Key-blitz
-A C++ file that will play a sound (Customizable) when you press a key.
 
-Make sure to download the keys file and put them both in the same directory.
+REQUIREMENTS:
+
+SFML library
+The Keys file to be in the same directory as the source file
+
+Description:
+
+A simple program that will play a sound when you press a key to emulate a good sounding keyboard
